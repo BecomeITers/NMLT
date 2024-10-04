@@ -1,0 +1,10 @@
+﻿  ConsoleApplication3.cpp
+D:\C++\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(27,8): error C2374: 'sliceurl': redefinition; multiple initialization
+D:\C++\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(26,8): message : see declaration of 'sliceurl'
+D:\C++\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(28,8): error C2374: 'sliceurl': redefinition; multiple initialization
+D:\C++\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(26,8): message : see declaration of 'sliceurl'
+D:\C++\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(26,19): error C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+D:\C++\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(34,5): error C2084: function 'int main(int,char **)' already has a body
+D:\C++\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(5,5): message : see previous definition of 'main'
+D:\C++\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(37,17): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(40,12): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

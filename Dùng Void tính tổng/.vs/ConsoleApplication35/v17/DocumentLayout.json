@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Nh\u1EADp m\u00F4n l\u1EADp tr\u00ECnh\\D\u00F9ng Void t\u00EDnh t\u1ED5ng\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06C084D0-693F-4923-AD24-34E7E9D23BD0}|ConsoleApplication35\\ConsoleApplication35.vcxproj|E:\\Nh\u1EADp m\u00F4n l\u1EADp tr\u00ECnh\\D\u00F9ng Void t\u00EDnh t\u1ED5ng\\ConsoleApplication35\\ConsoleApplication35.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06C084D0-693F-4923-AD24-34E7E9D23BD0}|ConsoleApplication35\\ConsoleApplication35.vcxproj|solutionrelative:ConsoleApplication35\\ConsoleApplication35.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication35.cpp",
+              "DocumentMoniker": "E:\\Nh\u1EADp m\u00F4n l\u1EADp tr\u00ECnh\\D\u00F9ng Void t\u00EDnh t\u1ED5ng\\ConsoleApplication35\\ConsoleApplication35.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication35\\ConsoleApplication35.cpp",
+              "ToolTip": "E:\\Nh\u1EADp m\u00F4n l\u1EADp tr\u00ECnh\\D\u00F9ng Void t\u00EDnh t\u1ED5ng\\ConsoleApplication35\\ConsoleApplication35.cpp",
+              "RelativeToolTip": "ConsoleApplication35\\ConsoleApplication35.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-14T14:52:44.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
